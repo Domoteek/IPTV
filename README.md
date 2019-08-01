@@ -1,13 +1,20 @@
 # Install Instructions
 
-- Put all files in root
-- add rights 755 or 0755
-- into the Putty Input command one by one (copy/paste): 
-
+Clone files to system
 ~~~~
-git clone 
+git clone https://github.com/INUI-Dev/IPTV.git
 ~~~~
 
+cd to IPTV folder and mv files to root
+~~~~
+cd IPTV
+mv installA.sh ../
+mv installB.sh ../
+mv update.sh ../ 
+mv streamerupdate.sh ../ 
+~~~~
+
+chmod file to 755
 ~~~~
 chmod 755 ./installA.sh 
 chmod 755 ./installB.sh 
@@ -15,9 +22,12 @@ chmod 755 ./update.sh
 chmod 755 ./streamerupdate.sh 
 ~~~~
 
+Run files in order
 ~~~~
 ./installA.sh 
 ./installB.sh 
 ./update.sh 
 ./streamerupdate.sh 
 ~~~~
+
+Browse to http://YOURIP.COM
