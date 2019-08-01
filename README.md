@@ -1,5 +1,7 @@
 # Install Instructions
 
+*** Debian 8 ONLY ***
+
 Clone files to system
 ~~~~
 git clone https://github.com/INUI-Dev/IPTV.git
