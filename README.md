@@ -30,4 +30,9 @@ Run files in order
 ./streamerupdate.sh 
 ~~~~
 
-Browse to http://YOURIP.COM
+Browse to http://YOURIP.COM:PORT (As setup in on-screen instructions) 
+
+Default Login: admin:admin
+
+# Screenshots
+![Screen1](https://i.imgur.com/FUlJNo0.png)
