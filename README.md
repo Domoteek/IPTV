@@ -1,6 +1,8 @@
 # Install Instructions
 
-*** Debian 8 ONLY ***
+*** Debian 8 & Ubuntu 16.X ***
+
+Required ZIP for each system is uploaded.
 
 Clone files to system
 ~~~~
